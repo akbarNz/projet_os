@@ -1,3 +1,7 @@
-cd /home/anzeyima
+
+echo bonjour le monde !
+date
+whoami
+mkdir test
 ls -la
 exit
